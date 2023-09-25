@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Sedgwick+Ave+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Croissant+One&family=Permanent+Marker&family=Sedgwick+Ave+Display&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  padding: 5px;
+}
+
+body {
+  background-image: url(https://livecoins.com.br/wp-content/uploads/2022/11/Estadio-do-Flamengo.jpg.webp);
+  background-size: cover;
+}
+
+header {
+  font-family: "Croissant One";
+  text-align: center;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+nav {
+  font-family: "Permanent Marker";
+  text-align: center;
+  font-size: 50px;
+  color: red;
+}
+
+.links {
+  font-size: 40px;
+  color: #ff0000;
+  text-decoration: underline;
+}
+
+.links:hover {
+  color: #630404;
+  font-family: "Permanent Marker";
+}
+
+main {
+  background-color: #202020;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  font-family: "Permanent Marker";
+}
+
+p {
+  font-size: 30px;
+}
+
+.link {
+  color: red;
+  font-size: 30px;
+}
+
+a.link:hover {
+  color: #630404;
+}
+
+#pic {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.foto {
+  width: 200px;
+  height: auto;
+  background-color: rgb(27, 26, 26);
+  transition: 0.7s;
+  float: left;
+  margin-right: 20px;
+}
+
+.foto:hover {
+  transform: scale(1.05);
+}
+
+.contact-info {
+  overflow: hidden;
+}
+
+.urubu {
+  height: 500px;
+  width: 1000px;
+}
+
+footer {
+  font-family: "Permanent Marker";
+  font-size: 40px;
+  text-align: center;
+  color: #3d0505;
+  margin-top: 145px;
+}
