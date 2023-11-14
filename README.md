@@ -20,7 +20,7 @@ O site "Flamengo 2019" relembra uma época de ouro do Clube de Regatas do Flamen
 
 ![CapturaSite3](https://github.com/Igor-Arauj0/FrontEnd/assets/141196147/bac0db9b-b93e-42f4-b59f-423e4a3ab12c)
 
-##Prints do Footer
+## Prints do Footer
 
 ![CapturaSiteFooter1](https://github.com/Igor-Arauj0/FrontEnd/assets/141196147/ece7a7ba-2906-4982-b18e-c62b4ab0458b)
 
